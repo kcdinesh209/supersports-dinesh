@@ -3,9 +3,8 @@
 SuperSports App, this is a Prototype of a mini E-comerece app used for online shopping.
 ```
 ## Live Demo
-**This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
-Check out [FRONTEND LIVE DEMO](https://frontend-edet.herokuapp.com/)here!!
-Check out [API LIVE DEMO](https://backend-edet.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://frontend-kc.herokuapp.com)here!!
+Check out [API LIVE DEMO](https://backend-kc.herokuapp.com) here!!
 ## Tech used
 ```
 * Frontend : React & Redux
@@ -14,7 +13,7 @@ Check out [API LIVE DEMO](https://backend-edet.herokuapp.com/) here!!
 ## How to Install
 1. Git Clone
 ```
-git clone https://github.com/nkereuwem/SuperSports-Ed.git
+git clone https://github.com/kcdinesh209/supersports-dinesh.git
 ```
 2. Backend setting
 ```
